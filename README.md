@@ -1,2 +1,2 @@
-# Nvim
-## This Nvim Configuration
+# Neovim
+#### This Nvim Configuration
